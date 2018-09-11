@@ -1,0 +1,10 @@
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\bin\Debug\Trabajo9112018.exe.config
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\bin\Debug\Trabajo9112018.exe
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\bin\Debug\Trabajo9112018.pdb
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.csprojResolveAssemblyReference.cache
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.Form1.resources
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.Properties.Resources.resources
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.csproj.GenerateResource.Cache
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.csproj.CoreCompileInputs.cache
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.exe
+C:\Users\maranda\source\repos\Trabajo9112018\Trabajo9112018\obj\Debug\Trabajo9112018.pdb
